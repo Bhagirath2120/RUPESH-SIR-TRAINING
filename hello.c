@@ -12,7 +12,7 @@
 //  return 0;
    //}
 
-int hello(a,b) {
+int hello(int a ,int b) {
 
 printf("%d ",a);
 printf("%d",b);
@@ -31,7 +31,7 @@ scanf("%d",&b);
 
 hello(a,b); 
 
-
+return 0;
 
 
 
