@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 int main(){
     //int a=100;
@@ -13,3 +14,18 @@ int main(){
 
 
     return 0;}
+=======
+#include<stdio.h>
+
+int main(){
+
+int arr[5]={1,2,4};
+for(int i=0;i<3;i++){
+    printf("%d",arr[i]);
+}
+return 0;
+
+
+
+}
+>>>>>>> e08084c1caf98446d9966095361f08e1a4bcf699
