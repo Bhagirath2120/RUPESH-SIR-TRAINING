@@ -4,15 +4,10 @@
 int main(){
 int a[5]={9,4,3,6,8};
 int sum=0;
-
 int max;
-
 for(int i=0;i<3;i++){
 printf("%d\n",a[i]);
-
 sum=sum+a[i]; 
-
-
 printf("%d\n",sum);}
 sum=0;
 
@@ -20,15 +15,11 @@ for(int j=2;j<4;j++){
     printf("%d.\n",a[j]);
     
     sum=sum+a[j];
-
 }
-
 printf("%d",sum);
 
-
-
-
     return 0;*/
+    
 int main(){
 
 int a[5]={9,4,3,6,8};
