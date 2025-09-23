@@ -13,15 +13,10 @@ int main(){
 int a=5;
 int b=10;
  int result = data(&a,&b);
- printf("%d", result);
- printf("%d",a+b);
-
-
-
-
+ printf("%d\n", result);
+ printf("%d\n",a+b);
 
 // int *p=&a;
-
 
 // printf("%d\n",a);
 // printf("%d\n",&a);
