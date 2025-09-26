@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #include<stdio.h>
 #include<conio.h>
 
@@ -11,9 +11,9 @@ int main(){
     }
     
 
-
+}
     getch();
-=======
+/*
 #include<stdio.h>
 #include<conio.h>
 
@@ -29,4 +29,4 @@ int main(){
 
     getch();
 >>>>>>> e08084c1caf98446d9966095361f08e1a4bcf699
-}
+}*/
