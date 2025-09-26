@@ -14,12 +14,12 @@ int main(){
         if (wSum>maxSum){
             maxSum=wSum;
 
-            printf("%d",maxSum);
+            // printf("%d",maxSum);
         }
     }
 
 
-
+printf("%d",maxSum);
 
 
 }
