@@ -6,7 +6,7 @@ int A[5]={10,20,30,40,50};
 int B[5];
 for(int i=0;i<=4;i++)
 {
-    printf("%d\n",A[i]);
+     printf("%d\n",A[i]);
        for(int j=0;j<=i;j++)
        {
         
