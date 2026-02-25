@@ -13,7 +13,7 @@ int main()
         for (int j = i + 1; j < ln; j++)
         {
 
-            if (i != j && str[i] == str[j])
+            if (i  != j && str[i] == str[j])
                  if(str[i]==str[j]){
                 count++;
         }
