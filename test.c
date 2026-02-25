@@ -4,8 +4,8 @@
    int    BSearch(){
       int arr[6]={1,2,3,4,5,6};
     int target=1;
-    int s=0;
-    int end=5;
+    int s=0; 
+     int end=5;
     while(s<=end)
     {
         int mid=(s+end)/2;
