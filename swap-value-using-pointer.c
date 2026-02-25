@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 // int main(){
-// swap value using 3rd variable
+//  swap value using 3rd variable
 
 
 void pointer(int *arr, int *bbb)
